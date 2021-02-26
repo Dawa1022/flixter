@@ -12,10 +12,9 @@
 
 ### App Walkthrough GIF
 
-<p float="left">
-<img src="http://g.recordit.co/EfVen3IdLj.gif">
-<img src="http://g.recordit.co/7ZWJFXEPf7.gif">
-</p>
+<img src="http://g.recordit.co/EfVen3IdLj.gif"><br>
+<img src="http://g.recordit.co/7ZWJFXEPf7.gif"><br>
+
 
 # Flix
 
